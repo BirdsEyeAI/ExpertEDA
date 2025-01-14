@@ -1,2 +1,3 @@
 # ExpertEDA
-Exploratory Data Analysis
+
+ML Series Day 2: Exploratory Data Analysis
